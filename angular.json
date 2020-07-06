@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-for-track-by"
+    }
+  },
+  "defaultProject": "ng-for-track-by",
+  "cli": {
+    "analytics": "2a512438-4840-4cad-8387-b7e6a18515f0"
+  }
 }
